@@ -1,2 +1,14 @@
-website/
-logs/
+resources/public/cis_192_spring_2015
+with_java_8.sh
+/target
+/lib
+/classes
+/checkouts
+pom.xml
+*.jar
+*.class
+/.lein-*
+profiles.clj
+/.env
+.nrepl-port
+/log
